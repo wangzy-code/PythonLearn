@@ -1,0 +1,1 @@
+ 1. 执行 . touch README.md  命令创建reanme文件失败，报错 bash: .: /usr/bin/touch: cannot execute binary file则把.删除就可以了
